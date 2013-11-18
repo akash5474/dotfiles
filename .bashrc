@@ -15,7 +15,8 @@
 #    1) .bash_profile is loaded the first time you login, and should be used
 #       only for paths and environmental settings
 
-#    2) .bashrc is loaded in each subsequent screen, and should be used for
+#  
+#2) .bashrc is loaded in each subsequent screen, and should be used for
 #       aliases and things like writing to .bash_eternal_history (see below)
 #
 # Do 'man bashrc' for the long version or see here:
